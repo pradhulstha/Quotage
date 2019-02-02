@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "276936713370",
+    "firebase_url": "https://quotage-60c00.firebaseio.com",
+    "project_id": "quotage-60c00",
+    "storage_bucket": "quotage-60c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276936713370:android:450c2da5c4c53495",
+        "android_client_info": {
+          "package_name": "com.prashul.quotage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276936713370-7tder57h550id8g03trujn1vvlnnr09b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzFRRYArahmRvuNRhvIM9zPoYlinH0a_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
